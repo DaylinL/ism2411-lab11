@@ -1,1 +1,9 @@
-# ism2411-lab11
+# ISM2411 Lab 11 — Customer Dictionary & Lookup
+
+**Name:** Daylin Lineback
+
+## How to Run
+
+From this folder:
+
+python customers.py
